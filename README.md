@@ -1,7 +1,8 @@
 grammar_nlp.py
 
 import nltk
-from nltk.tokenize import word_tokenize
+from nltk.tokenize import
+ word_tokenize
 from nltk import pos_tag
 
 nltk.download('punkt')
